@@ -17,3 +17,9 @@ The dataset used in this project is from [Baseball Savant](https://baseballsavan
 8. Aaron Judge's home run zone
 9. Giancarlo Stanton's home run zone
 10. Should opposing pitchers be scared?
+
+
+### Good to know
+[MLB.com's Statcast glossary](http://m.mlb.com/glossary/statcast) (MLB stands for Major League Baseball) may be helpful at various points throughout the Project. 
+Through accessible text and video, they explain baseball concepts in more detail than the Project Notebook. 
+Links to specific glossary pages will be provided throughout the Project.
